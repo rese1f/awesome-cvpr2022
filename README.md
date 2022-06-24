@@ -10,7 +10,6 @@ workshop, tutorial, oral, and poster with notes in cvpr2022
 
 
 ---
-- [Introduction](#introduction)
 - [Workshops](#workshops)
   - [Machine Learning with Synthetic Data (SyntML) link](#machine-learning-with-synthetic-data-syntml-link)
   - [International Challenge on Activity Recognition (ActivityNet) link](#international-challenge-on-activity-recognition-activitynet-link)
